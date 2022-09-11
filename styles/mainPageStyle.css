@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0; 
+  scroll-behavior: smooth; 
+}
+a {
+    padding-left: 20px;
+    color: black;
+}
+.body {
+    height: 100vh;
+    background: url('D:\AMPLI\131\pathes\image\page2\reebok — копия.png') no-repeat; 
+    /* відносні шляхи */
+    background-position: center center;
+    background-size: cover;
+    /* абсолютні шляхи */
+    
+}
+.redLink {
+    color: #6151b2;
+}
+#for_anchor {
+background-color: #6151b2;
+min-height: 100vh;
+}
+.empty {
+    min-height: 100vh;
+}
